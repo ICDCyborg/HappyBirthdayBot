@@ -1,7 +1,7 @@
 # HappyBirthdayBot
 
 misskey.io上で動作するBotです。
-http://misskey.io/@HBDBot　として活動中。
+http://misskey.io/@HBDBot 　として活動中。
 
 アンテナで指定したキーワードを含むノートに関して、
 
